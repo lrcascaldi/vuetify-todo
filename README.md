@@ -5,10 +5,10 @@ Made following the great programming class of Danny Connel on youtube.
 
 ## Class info
 
-==================
-
 Title: Vuetify: Create an App with Vue JS - in 30 MINUTES!
+
 Channel: Making Apps with Danny
+
 Link: https://www.youtube.com/watch?v=CjXgoYo86yY
 
 ### Project setup
